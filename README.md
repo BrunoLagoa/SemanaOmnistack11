@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="frontend/src/assets/betheheroes.png" width="380px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="frontend/src/assets/betheheroes.png" width="580px" />
 </h1>
 
 <p align="center">
