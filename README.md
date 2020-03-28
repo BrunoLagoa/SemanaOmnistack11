@@ -3,13 +3,20 @@
 </h1>
 
 <p align="center">
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#setup">Setup</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
 
+## Projeto
+
+O Be The Hero é um projeto que visa conectar pessoas a ONGs e visualizar seus CASOS de forma simples e direta.
+
+Na plataforma Web as Ongs realizam seus cadastros e postam seus casos, ja na plataforma mobile todos os usuários tem acesso aos casos e escolhem quais desejam ajudar.
+
+Aprimorando o backend com testes em #Jest com auxilio do #Supertest. E usando o #Celebrate para realizar validações dos dados enviados.
 
 ## Tecnologias
 
@@ -35,7 +42,6 @@ Esse projeto Backend, foi desenvolvido com as seguintes tecnologias:
 	* **nodemailer-express-handlebars**:  ^4.0.0
 	* **nodemon**: ^2.0.2 
 	* **sqlite3**:  ^4.1.1
-
 
 - ### Web
 	* **@testing-library/jest-dom**:  ^4.2.4
@@ -72,14 +78,6 @@ Esse projeto Backend, foi desenvolvido com as seguintes tecnologias:
 		* **react-native-screens**:  2.0.0-alpha.12
 		* **react-native-web**:  ~0.11.7
 	* **styled-components**:  ^5.0.1
-
-## Projeto
-
-O Be The Hero é um projeto que visa conectar pessoas a ONGs e visualizar seus CASOS de forma simples e direta.
-
-Na plataforma Web as Ongs realizam seus cadastros e postam seus casos, ja na plataforma mobile todos os usuários tem acesso aos casos e escolhem quais desejam ajudar.
-
-Aprimorando o backend com testes em #Jest com auxilio do #Supertest. E usando o #Celebrate para realizar validações dos dados enviados.
 
 ## Setup
 
