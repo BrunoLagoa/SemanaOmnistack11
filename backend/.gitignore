@@ -45,3 +45,5 @@ tmp
 *.sublime-workspace
 *.sublime-project
 .idea/
+
+package-lock.json
