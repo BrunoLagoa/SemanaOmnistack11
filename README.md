@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
     <img alt="BeTheHero" title="#BeTheHero" src="frontend/src/assets/logo.png" width="380px" />
-</h1>
+</div>
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -90,7 +90,14 @@ Clone o repositório em sua maquina:
 
 ## Layout
 
-:construction: In progress.. :construction:
+<div align="center">
+    <img alt="Desktop" title="#Desktop" src="frontend/src/assets/desktop-01.png" width="380px" />
+</div>
+
+<div align="center">
+    <img alt="Desktop" title="#Desktop" src="frontend/src/assets/phone-01.png" width="150px" />
+		<img alt="Desktop" title="#Desktop" src="frontend/src/assets/phone-02.png" width="150px" />
+</div>
 
 ## Licença
 
