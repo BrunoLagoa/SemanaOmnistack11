@@ -93,12 +93,12 @@ Clone o repositório em sua maquina:
 ## Layout
 
 <div align="center">
-    <img alt="Desktop" title="#Desktop" src="frontend/src/assets/desktop-01.png" width="380px" />
+    <img alt="Desktop" title="#Desktop" src="frontend/src/assets/desktop-01.png" width="680px" />
 </div>
 
 <div align="center">
-    <img alt="Desktop" title="#Desktop" src="frontend/src/assets/phone-01.png" width="150px" />
-		<img alt="Desktop" title="#Desktop" src="frontend/src/assets/phone-02.png" width="150px" />
+    <img alt="Desktop" title="#Desktop" src="frontend/src/assets/phone-01.png" width="250px" />
+		<img alt="Desktop" title="#Desktop" src="frontend/src/assets/phone-02.png" width="250px" />
 </div>
 
 ## Licença
